@@ -1,0 +1,1626 @@
+[
+  {
+    "location": "Cantt",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Cantt, Karachi, Sindh",
+    "latitude": "24.889395",
+    "longitude": "67.098627"
+  },
+  {
+    "location": "Gulistan-e-Jauhar",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Gulistan-e-Jauhar, Karachi, Sindh",
+    "latitude": "24.91498756",
+    "longitude": "67.13870239"
+  },
+  {
+    "location": "DHA Defence",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "DHA Defence, Karachi, Sindh",
+    "latitude": "24.81436729",
+    "longitude": "67.07208252"
+  },
+  {
+    "location": "Malir",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Malir, Karachi, Sindh",
+    "latitude": "24.882302",
+    "longitude": "67.184677"
+  },
+  {
+    "location": "Sarjani Town",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Sarjani Town, Karachi, Sindh",
+    "latitude": "25.018156",
+    "longitude": "67.066864"
+  },
+  {
+    "location": "Gulshan-e-Iqbal Town",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Gulshan-e-Iqbal Town, Karachi, Sindh",
+    "latitude": "24.92349243",
+    "longitude": "67.0817337"
+  },
+  {
+    "location": "Scheme 33",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Scheme 33, Karachi, Sindh",
+    "latitude": "24.964623",
+    "longitude": "67.168558"
+  },
+  {
+    "location": "Bath Island",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Bath Island, Karachi, Sindh",
+    "latitude": "24.83566",
+    "longitude": "67.0286"
+  },
+  {
+    "location": "Abul Hassan Isphani Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Abul Hassan Isphani Road, Karachi, Sindh",
+    "latitude": "24.941817",
+    "longitude": "67.098056"
+  },
+  {
+    "location": "Nazimabad",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Nazimabad, Karachi, Sindh",
+    "latitude": "24.906134",
+    "longitude": "67.023983"
+  },
+  {
+    "location": "Falcon Complex Faisal",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Falcon Complex Faisal, Karachi, Sindh",
+    "latitude": "24.865828",
+    "longitude": "67.088388"
+  },
+  {
+    "location": "Shahra-e-Faisal",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Shahra-e-Faisal, Karachi, Sindh",
+    "latitude": "24.86767062",
+    "longitude": "67.1945917"
+  },
+  {
+    "location": "Gizri",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Gizri, Karachi, Sindh",
+    "latitude": "24.820393",
+    "longitude": "67.0468"
+  },
+  {
+    "location": "Saddar Town",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Saddar Town, Karachi, Sindh",
+    "latitude": "24.860389",
+    "longitude": "67.027795"
+  },
+  {
+    "location": "Navy Housing Scheme Karsaz",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Navy Housing Scheme Karsaz, Karachi, Sindh",
+    "latitude": "24.893299",
+    "longitude": "67.103462"
+  },
+  {
+    "location": "Jamshed Town",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Jamshed Town, Karachi, Sindh",
+    "latitude": "24.880013",
+    "longitude": "67.057285"
+  },
+  {
+    "location": "Bahria Town Karachi",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Bahria Town Karachi, Karachi, Sindh",
+    "latitude": "24.894076",
+    "longitude": "67.027715"
+  },
+  {
+    "location": "Jinnah Avenue",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Jinnah Avenue, Karachi, Sindh",
+    "latitude": "24.94093154",
+    "longitude": "67.16148219"
+  },
+  {
+    "location": "PAF Housing Scheme",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "PAF Housing Scheme, Karachi, Sindh",
+    "latitude": "24.953678",
+    "longitude": "67.18116"
+  },
+  {
+    "location": "North Nazimabad",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "North Nazimabad, Karachi, Sindh",
+    "latitude": "24.941744",
+    "longitude": "67.053638"
+  },
+  {
+    "location": "Clifton",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Clifton, Karachi, Sindh",
+    "latitude": "24.825028",
+    "longitude": "67.031579"
+  },
+  {
+    "location": "Northern Bypass",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Northern Bypass, Karachi, Sindh",
+    "latitude": "25.07576",
+    "longitude": "67.105412"
+  },
+  {
+    "location": "Fazaia Housing Scheme",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Fazaia Housing Scheme, Karachi, Sindh",
+    "latitude": "25.07588167",
+    "longitude": "67.10603714"
+  },
+  {
+    "location": "New Karachi",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "New Karachi, Karachi, Sindh",
+    "latitude": "24.989559",
+    "longitude": "67.067714"
+  },
+  {
+    "location": "Khalid Bin Walid Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Khalid Bin Walid Road, Karachi, Sindh",
+    "latitude": "24.874922",
+    "longitude": "67.057322"
+  },
+  {
+    "location": "Shaheed Millat Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Shaheed Millat Road, Karachi, Sindh",
+    "latitude": "24.876976",
+    "longitude": "67.069237"
+  },
+  {
+    "location": "North Karachi",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "North Karachi, Karachi, Sindh",
+    "latitude": "24.965828",
+    "longitude": "67.062515"
+  },
+  {
+    "location": "Anda Mor Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Anda Mor Road, Karachi, Sindh",
+    "latitude": "24.964946",
+    "longitude": "67.056945"
+  },
+  {
+    "location": "Lyari Town",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Lyari Town, Karachi, Sindh",
+    "latitude": "24.854899",
+    "longitude": "66.991868"
+  },
+  {
+    "location": "Defence View Society",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Defence View Society, Karachi, Sindh",
+    "latitude": "24.834128",
+    "longitude": "67.078099"
+  },
+  {
+    "location": "Federal B Area",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Federal B Area, Karachi, Sindh",
+    "latitude": "24.926606",
+    "longitude": "67.067707"
+  },
+  {
+    "location": "P & T Colony",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "P & T Colony, Karachi, Sindh",
+    "latitude": "24.826386",
+    "longitude": "67.045677"
+  },
+  {
+    "location": "Sea View Apartments",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Sea View Apartments, Karachi, Sindh",
+    "latitude": "24.791838",
+    "longitude": "67.044668"
+  },
+  {
+    "location": "Baldia Town",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Baldia Town, Karachi, Sindh",
+    "latitude": "24.906445",
+    "longitude": "66.969265"
+  },
+  {
+    "location": "Tariq Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Tariq Road, Karachi, Sindh",
+    "latitude": "24.87115479",
+    "longitude": "67.05957031"
+  },
+  {
+    "location": "Zamzama",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Zamzama, Karachi, Sindh",
+    "latitude": "24.823782",
+    "longitude": "67.039905"
+  },
+  {
+    "location": "Gulshan-e-Usman Housing Society",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Gulshan-e-Usman Housing Society, Karachi, Sindh",
+    "latitude": "24.979744",
+    "longitude": "67.185033"
+  },
+  {
+    "location": "Liaquatabad",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Liaquatabad, Karachi, Sindh",
+    "latitude": "24.903253",
+    "longitude": "67.052279"
+  },
+  {
+    "location": "Garden West",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Garden West, Karachi, Sindh",
+    "latitude": "24.873806",
+    "longitude": "67.01623"
+  },
+  {
+    "location": "Gulberg Town",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Gulberg Town, Karachi, Sindh",
+    "latitude": "24.91641659",
+    "longitude": "67.05826309"
+  },
+  {
+    "location": "Chapal Uptown",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Chapal Uptown, Karachi, Sindh",
+    "latitude": "25.045518",
+    "longitude": "67.13858"
+  },
+  {
+    "location": "Baloch Colony",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Baloch Colony, Karachi, Sindh",
+    "latitude": "24.88269912",
+    "longitude": "67.06123352"
+  },
+  {
+    "location": "Manzoor Colony",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Manzoor Colony, Karachi, Sindh",
+    "latitude": "24.850265",
+    "longitude": "67.085216"
+  },
+  {
+    "location": "Aisha Manzil",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Aisha Manzil, Karachi, Sindh",
+    "latitude": "24.927498",
+    "longitude": "67.06416"
+  },
+  {
+    "location": "Delhi Colony",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Delhi Colony, Karachi, Sindh",
+    "latitude": "24.831727",
+    "longitude": "67.043931"
+  },
+  {
+    "location": "Airport",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Airport, Karachi, Sindh",
+    "latitude": "24.90239716",
+    "longitude": "67.1598053"
+  },
+  {
+    "location": "Jamshed Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Jamshed Road, Karachi, Sindh",
+    "latitude": "24.88473905",
+    "longitude": "67.04308335"
+  },
+  {
+    "location": "Shah Faisal Town",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Shah Faisal Town, Karachi, Sindh",
+    "latitude": "24.880071",
+    "longitude": "67.162514"
+  },
+  {
+    "location": "Civil Lines",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Civil Lines, Karachi, Sindh",
+    "latitude": "24.84567",
+    "longitude": "67.030077"
+  },
+  {
+    "location": "University Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "University Road, Karachi, Sindh",
+    "latitude": "24.92252",
+    "longitude": "67.103269"
+  },
+  {
+    "location": "Korangi",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Korangi, Karachi, Sindh",
+    "latitude": "24.826235",
+    "longitude": "67.108905"
+  },
+  {
+    "location": "Hill Park",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Hill Park, Karachi, Sindh",
+    "latitude": "24.868021",
+    "longitude": "67.071147"
+  },
+  {
+    "location": "Malir Link To Super Highway",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Malir Link To Super Highway, Karachi, Sindh",
+    "latitude": "24.89241216",
+    "longitude": "67.17443347"
+  },
+  {
+    "location": "Abid Town",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Abid Town, Karachi, Sindh",
+    "latitude": "24.957623",
+    "longitude": "67.090866"
+  },
+  {
+    "location": "Falaknaz Presidency",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Falaknaz Presidency, Karachi, Sindh",
+    "latitude": "24.927051",
+    "longitude": "67.173994"
+  },
+  {
+    "location": "Bin Qasim Town",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Bin Qasim Town, Karachi, Sindh",
+    "latitude": "24.836896",
+    "longitude": "67.195783"
+  },
+  {
+    "location": "Ranchore Line Bazar",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Ranchore Line Bazar, Karachi, Sindh",
+    "latitude": "24.877254",
+    "longitude": "67.01579"
+  },
+  {
+    "location": "M. A. Jinnah Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "M. A. Jinnah Road, Karachi, Sindh",
+    "latitude": "24.855992",
+    "longitude": "67.009472"
+  },
+  {
+    "location": "Super Highway",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Super Highway, Karachi, Sindh",
+    "latitude": "24.991426",
+    "longitude": "67.169123"
+  },
+  {
+    "location": "Azam Town",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Azam Town, Karachi, Sindh",
+    "latitude": "24.84580352",
+    "longitude": "67.07433879"
+  },
+  {
+    "location": "Saima Luxury Homes",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Saima Luxury Homes, Karachi, Sindh",
+    "latitude": "24.859036",
+    "longitude": "67.144243"
+  },
+  {
+    "location": "Rabia City",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Rabia City, Karachi, Sindh",
+    "latitude": "24.907814",
+    "longitude": "67.132983"
+  },
+  {
+    "location": "Mehmoodabad",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Mehmoodabad, Karachi, Sindh",
+    "latitude": "24.853864",
+    "longitude": "67.075562"
+  },
+  {
+    "location": "Hub River Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Hub River Road, Karachi, Sindh",
+    "latitude": "24.92909",
+    "longitude": "66.942561"
+  },
+  {
+    "location": "Rufi Rose Petals",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Rufi Rose Petals, Karachi, Sindh",
+    "latitude": "24.9551",
+    "longitude": "67.110865"
+  },
+  {
+    "location": "Shahra-e-Qaideen",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Shahra-e-Qaideen, Karachi, Sindh",
+    "latitude": "24.872849",
+    "longitude": "67.038424"
+  },
+  {
+    "location": "Suparco Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Suparco Road, Karachi, Sindh",
+    "latitude": "24.95212",
+    "longitude": "67.127083"
+  },
+  {
+    "location": "Punjab Chowrangi",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Punjab Chowrangi, Karachi, Sindh",
+    "latitude": "24.834479",
+    "longitude": "67.039121"
+  },
+  {
+    "location": "Khaliq-uz-Zaman Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Khaliq-uz-Zaman Road, Karachi, Sindh",
+    "latitude": "24.83252952",
+    "longitude": "67.03987241"
+  },
+  {
+    "location": "Lyari Expressway",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Lyari Expressway, Karachi, Sindh",
+    "latitude": "24.894222",
+    "longitude": "67.045655"
+  },
+  {
+    "location": "Orangi Town",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Orangi Town, Karachi, Sindh",
+    "latitude": "24.950888",
+    "longitude": "66.974201"
+  },
+  {
+    "location": "Gulshan-e-Areesha",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Gulshan-e-Areesha, Karachi, Sindh",
+    "latitude": "24.939968",
+    "longitude": "67.14483"
+  },
+  {
+    "location": "Javed Bahria Coopretive Housing Society",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Javed Bahria Coopretive Housing Society, Karachi, Sindh",
+    "latitude": "24.873725",
+    "longitude": "66.912678"
+  },
+  {
+    "location": "Landhi",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Landhi, Karachi, Sindh",
+    "latitude": "24.84579622",
+    "longitude": "67.13998318"
+  },
+  {
+    "location": "Kashmir Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Kashmir Road, Karachi, Sindh",
+    "latitude": "24.8801565",
+    "longitude": "67.0439751"
+  },
+  {
+    "location": "ASF Tower",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "ASF Tower, Karachi, Sindh",
+    "latitude": "24.94986698",
+    "longitude": "67.1581471"
+  },
+  {
+    "location": "Dastgir Colony",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Dastgir Colony, Karachi, Sindh",
+    "latitude": "24.925717",
+    "longitude": "67.077208"
+  },
+  {
+    "location": "Dalmia Cement Factory Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Dalmia Cement Factory Road, Karachi, Sindh",
+    "latitude": "24.903908",
+    "longitude": "67.102623"
+  },
+  {
+    "location": "Defence Garden",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Defence Garden, Karachi, Sindh",
+    "latitude": "24.845576",
+    "longitude": "67.054217"
+  },
+  {
+    "location": "Rashid Minhas Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Rashid Minhas Road, Karachi, Sindh",
+    "latitude": "24.895994",
+    "longitude": "67.119194"
+  },
+  {
+    "location": "Sindh Industrial Trading Estate (SITE)",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Sindh Industrial Trading Estate (SITE), Karachi, Sindh",
+    "latitude": "24.91761579",
+    "longitude": "66.99796692"
+  },
+  {
+    "location": "Khayaban-e-Ittehad Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Khayaban-e-Ittehad Road, Karachi, Sindh",
+    "latitude": "24.80658427",
+    "longitude": "67.06945248"
+  },
+  {
+    "location": "Britto Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Britto Road, Karachi, Sindh",
+    "latitude": "24.87774498",
+    "longitude": "67.03270555"
+  },
+  {
+    "location": "Naya Nazimabad",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Naya Nazimabad, Karachi, Sindh",
+    "latitude": "24.969255",
+    "longitude": "67.039855"
+  },
+  {
+    "location": "KDA Scheme 1",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "KDA Scheme 1, Karachi, Sindh",
+    "latitude": "24.87767684",
+    "longitude": "67.08905339"
+  },
+  {
+    "location": "Saadi Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Saadi Road, Karachi, Sindh",
+    "latitude": "24.946106",
+    "longitude": "67.1628"
+  },
+  {
+    "location": "Karachi Motorway",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Karachi Motorway, Karachi, Sindh",
+    "latitude": "24.99128",
+    "longitude": "67.17499"
+  },
+  {
+    "location": "Tipu Sultan Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Tipu Sultan Road, Karachi, Sindh",
+    "latitude": "24.86981058",
+    "longitude": "67.07886636"
+  },
+  {
+    "location": "Gulshan-e-Amin",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Gulshan-e-Amin, Karachi, Sindh",
+    "latitude": "24.94170769",
+    "longitude": "67.08534658"
+  },
+  {
+    "location": "Manghopir Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Manghopir Road, Karachi, Sindh",
+    "latitude": "25.00892846",
+    "longitude": "67.03936815"
+  },
+  {
+    "location": "Golimar",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Golimar, Karachi, Sindh",
+    "latitude": "24.89103",
+    "longitude": "67.006905"
+  },
+  {
+    "location": "Shah Rasool Colony",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Shah Rasool Colony, Karachi, Sindh",
+    "latitude": "24.810966",
+    "longitude": "67.034833"
+  },
+  {
+    "location": "Nishtar Road (Lawrence Road)",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Nishtar Road (Lawrence Road), Karachi, Sindh",
+    "latitude": "24.885121",
+    "longitude": "67.030018"
+  },
+  {
+    "location": "Al-Hilal Society",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Al-Hilal Society, Karachi, Sindh",
+    "latitude": "24.894248",
+    "longitude": "67.066502"
+  },
+  {
+    "location": "National Highway",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "National Highway, Karachi, Sindh",
+    "latitude": "24.862219",
+    "longitude": "67.284222"
+  },
+  {
+    "location": "Maqboolabad Society",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Maqboolabad Society, Karachi, Sindh",
+    "latitude": "24.88555",
+    "longitude": "67.063068"
+  },
+  {
+    "location": "Falaknaz Dynasty",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Falaknaz Dynasty, Karachi, Sindh",
+    "latitude": "24.927032",
+    "longitude": "67.173136"
+  },
+  {
+    "location": "Etawa Society",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Etawa Society, Karachi, Sindh",
+    "latitude": "25.0039",
+    "longitude": "67.12267"
+  },
+  {
+    "location": "Frere Town",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Frere Town, Karachi, Sindh",
+    "latitude": "24.841065",
+    "longitude": "67.037424"
+  },
+  {
+    "location": "Cosmopolitan Society",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Cosmopolitan Society, Karachi, Sindh",
+    "latitude": "24.91030216",
+    "longitude": "67.07635749"
+  },
+  {
+    "location": "Liaquat Avenue",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Liaquat Avenue, Karachi, Sindh",
+    "latitude": "24.903322",
+    "longitude": "67.185742"
+  },
+  {
+    "location": "Dr Daud Pota Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Dr Daud Pota Road, Karachi, Sindh",
+    "latitude": "24.855127",
+    "longitude": "67.032697"
+  },
+  {
+    "location": "DHA City Karachi",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "DHA City Karachi, Karachi, Sindh",
+    "latitude": "25.017951",
+    "longitude": "67.395201"
+  },
+  {
+    "location": "Surti Muslim Co-Operative Housing Society",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Surti Muslim Co-Operative Housing Society, Karachi, Sindh",
+    "latitude": "24.91021538",
+    "longitude": "67.1985321"
+  },
+  {
+    "location": "ASF Housing Scheme",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "ASF Housing Scheme, Karachi, Sindh",
+    "latitude": "24.937918",
+    "longitude": "67.15371"
+  },
+  {
+    "location": "Muslimabad Society",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Muslimabad Society, Karachi, Sindh",
+    "latitude": "24.87925529",
+    "longitude": "67.04940033"
+  },
+  {
+    "location": "Bilal Town",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Bilal Town, Karachi, Sindh",
+    "latitude": "24.876259",
+    "longitude": "67.171167"
+  },
+  {
+    "location": "Cotton Export Cooperative Housing Society",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Cotton Export Cooperative Housing Society, Karachi, Sindh",
+    "latitude": "24.999456",
+    "longitude": "67.12863"
+  },
+  {
+    "location": "Naval Housing Scheme",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Naval Housing Scheme, Karachi, Sindh",
+    "latitude": "24.83833885",
+    "longitude": "67.05574799"
+  },
+  {
+    "location": "Maskan Chowrangi",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Maskan Chowrangi, Karachi, Sindh",
+    "latitude": "24.934847",
+    "longitude": "67.10525"
+  },
+  {
+    "location": "MT Khan Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "MT Khan Road, Karachi, Sindh",
+    "latitude": "24.845753",
+    "longitude": "67.02215"
+  },
+  {
+    "location": "Khuda Ki Basti",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Khuda Ki Basti, Karachi, Sindh",
+    "latitude": "25.03256",
+    "longitude": "67.094818"
+  },
+  {
+    "location": "Shaheed-e-Millat Expressway",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Shaheed-e-Millat Expressway, Karachi, Sindh",
+    "latitude": "24.832876",
+    "longitude": "67.08002"
+  },
+  {
+    "location": "Hawks Bay Scheme 42",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Hawks Bay Scheme 42, Karachi, Sindh",
+    "latitude": "24.897606",
+    "longitude": "66.84204"
+  },
+  {
+    "location": "Kamran Chowrangi",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Kamran Chowrangi, Karachi, Sindh",
+    "latitude": "24.923841",
+    "longitude": "67.137812"
+  },
+  {
+    "location": "Gizri Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Gizri Road, Karachi, Sindh",
+    "latitude": "24.822217",
+    "longitude": "67.046129"
+  },
+  {
+    "location": "Peoples Colony",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Peoples Colony, Karachi, Sindh",
+    "latitude": "24.945035",
+    "longitude": "67.065446"
+  },
+  {
+    "location": "Kashmir Colony",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Kashmir Colony, Karachi, Sindh",
+    "latitude": "24.837672",
+    "longitude": "67.076549"
+  },
+  {
+    "location": "Abdullah Haroon Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Abdullah Haroon Road, Karachi, Sindh",
+    "latitude": "24.848067",
+    "longitude": "67.031176"
+  },
+  {
+    "location": "Shadman 2",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Shadman 2, Karachi, Sindh",
+    "latitude": "24.95994678",
+    "longitude": "67.06028469"
+  },
+  {
+    "location": "Korangi Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Korangi Road, Karachi, Sindh",
+    "latitude": "24.844366",
+    "longitude": "67.146878"
+  },
+  {
+    "location": "Scheme 45",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Scheme 45, Karachi, Sindh",
+    "latitude": "25.07567436",
+    "longitude": "67.10577965"
+  },
+  {
+    "location": "Amir Khusro",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Amir Khusro, Karachi, Sindh",
+    "latitude": "24.880714",
+    "longitude": "67.080477"
+  },
+  {
+    "location": "Sakhi Hassan Chowrangi",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Sakhi Hassan Chowrangi, Karachi, Sindh",
+    "latitude": "24.954203",
+    "longitude": "67.057675"
+  },
+  {
+    "location": "Naval Colony",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Naval Colony, Karachi, Sindh",
+    "latitude": "24.941298",
+    "longitude": "66.93869"
+  },
+  {
+    "location": "Kemari Town",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Kemari Town, Karachi, Sindh",
+    "latitude": "24.82292959",
+    "longitude": "66.9819434"
+  },
+  {
+    "location": "BMCHS",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "BMCHS, Karachi, Sindh",
+    "latitude": "24.883046",
+    "longitude": "67.064663"
+  },
+  {
+    "location": "Lines Area",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Lines Area, Karachi, Sindh",
+    "latitude": "24.866179",
+    "longitude": "67.03944"
+  },
+  {
+    "location": "Cutchi Memon Cooperative Housing Society",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Cutchi Memon Cooperative Housing Society, Karachi, Sindh",
+    "latitude": "24.885829",
+    "longitude": "67.072549"
+  },
+  {
+    "location": "Abdullah Ahmed Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Abdullah Ahmed Road, Karachi, Sindh",
+    "latitude": "24.891224",
+    "longitude": "66.988458"
+  },
+  {
+    "location": "Punjab Colony",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Punjab Colony, Karachi, Sindh",
+    "latitude": "24.830948",
+    "longitude": "67.047329"
+  },
+  {
+    "location": "Lalukhet",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Lalukhet, Karachi, Sindh",
+    "latitude": "24.900299",
+    "longitude": "67.032157"
+  },
+  {
+    "location": "Shah Town",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Shah Town, Karachi, Sindh",
+    "latitude": "24.852831",
+    "longitude": "67.333047"
+  },
+  {
+    "location": "Pakistan Chowk",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Pakistan Chowk, Karachi, Sindh",
+    "latitude": "24.85291288",
+    "longitude": "67.01005697"
+  },
+  {
+    "location": "Rufi Lake Drive Apartments",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Rufi Lake Drive Apartments, Karachi, Sindh",
+    "latitude": "24.907374",
+    "longitude": "67.121106"
+  },
+  {
+    "location": "Gobal Town",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Gobal Town, Karachi, Sindh",
+    "latitude": "24.966257",
+    "longitude": "67.088202"
+  },
+  {
+    "location": "Guru Mandir Chorangi",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Guru Mandir Chorangi, Karachi, Sindh",
+    "latitude": "24.880755",
+    "longitude": "67.039694"
+  },
+  {
+    "location": "Teacher Society",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Teacher Society, Karachi, Sindh",
+    "latitude": "24.986019",
+    "longitude": "67.135864"
+  },
+  {
+    "location": "Amil Colony",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Amil Colony, Karachi, Sindh",
+    "latitude": "24.884539",
+    "longitude": "67.026494"
+  },
+  {
+    "location": "Old Queens Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Old Queens Road, Karachi, Sindh",
+    "latitude": "24.845359",
+    "longitude": "67.002655"
+  },
+  {
+    "location": "Khudadad Colony",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Khudadad Colony, Karachi, Sindh",
+    "latitude": "24.873652",
+    "longitude": "67.044956"
+  },
+  {
+    "location": "Stadium Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Stadium Road, Karachi, Sindh",
+    "latitude": "24.86613",
+    "longitude": "67.336715"
+  },
+  {
+    "location": "PTV Society",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "PTV Society, Karachi, Sindh",
+    "latitude": "25.008387",
+    "longitude": "67.11811"
+  },
+  {
+    "location": "Times Residency",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Times Residency, Karachi, Sindh",
+    "latitude": "25.00962",
+    "longitude": "67.05307"
+  },
+  {
+    "location": "Qayyumabad",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Qayyumabad, Karachi, Sindh",
+    "latitude": "24.827404",
+    "longitude": "67.07865"
+  },
+  {
+    "location": "Teachers Society",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Teachers Society, Karachi, Sindh",
+    "latitude": "24.978356",
+    "longitude": "67.129812"
+  },
+  {
+    "location": "Gulshan-e-Umair",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Gulshan-e-Umair, Karachi, Sindh",
+    "latitude": "24.939904",
+    "longitude": "67.166902"
+  },
+  {
+    "location": "Mauripur Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Mauripur Road, Karachi, Sindh",
+    "latitude": "24.863855",
+    "longitude": "66.986321"
+  },
+  {
+    "location": "Malir Housing Scheme 1",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Malir Housing Scheme 1, Karachi, Sindh",
+    "latitude": "24.887538",
+    "longitude": "67.427639"
+  },
+  {
+    "location": "Old Clifton",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Old Clifton, Karachi, Sindh",
+    "latitude": "24.817883",
+    "longitude": "67.032915"
+  },
+  {
+    "location": "I. I. Chundrigar Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "I. I. Chundrigar Road, Karachi, Sindh",
+    "latitude": "24.849871",
+    "longitude": "67.008233"
+  },
+  {
+    "location": "Chapal Courtyard",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Chapal Courtyard, Karachi, Sindh",
+    "latitude": "24.953426",
+    "longitude": "67.144389"
+  },
+  {
+    "location": "circular road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "circular road, Karachi, Sindh",
+    "latitude": "25.080332",
+    "longitude": "67.146873"
+  },
+  {
+    "location": "Al-Safaa Garden",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Al-Safaa Garden, Karachi, Sindh",
+    "latitude": "25.070455",
+    "longitude": "67.013906"
+  },
+  {
+    "location": "Intelligence Colony",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Intelligence Colony, Karachi, Sindh",
+    "latitude": "24.841912",
+    "longitude": "67.012696"
+  },
+  {
+    "location": "Shahrah-e-Pakistan",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Shahrah-e-Pakistan, Karachi, Sindh",
+    "latitude": "24.934436",
+    "longitude": "67.072266"
+  },
+  {
+    "location": "State Bank of Pakistan Staff Co-Operative Housing Society",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "State Bank of Pakistan Staff Co-Operative Housing Society, Karachi, Sindh",
+    "latitude": "25.107539",
+    "longitude": "67.152488"
+  },
+  {
+    "location": "Shahra-e-Usman",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Shahra-e-Usman, Karachi, Sindh",
+    "latitude": "25.014626",
+    "longitude": "67.063959"
+  },
+  {
+    "location": "Numaish Chowrangi",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Numaish Chowrangi, Karachi, Sindh",
+    "latitude": "24.873346",
+    "longitude": "67.03638"
+  },
+  {
+    "location": "Gujjar Chowk",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Gujjar Chowk, Karachi, Sindh",
+    "latitude": "24.854426",
+    "longitude": "67.08511"
+  },
+  {
+    "location": "Al-Manzar Society",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Al-Manzar Society, Karachi, Sindh",
+    "latitude": "25.009434",
+    "longitude": "67.128953"
+  },
+  {
+    "location": "Ahsan Grand City",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Ahsan Grand City, Karachi, Sindh",
+    "latitude": "24.9867",
+    "longitude": "67.166462"
+  },
+  {
+    "location": "Royal Defence Tower",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Royal Defence Tower, Karachi, Sindh",
+    "latitude": "24.831493",
+    "longitude": "67.079122"
+  },
+  {
+    "location": "Siraj-ud-Daula Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Siraj-ud-Daula Road, Karachi, Sindh",
+    "latitude": "24.879682",
+    "longitude": "67.068985"
+  },
+  {
+    "location": "Chapal Skymark",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Chapal Skymark, Karachi, Sindh",
+    "latitude": "24.844343",
+    "longitude": "67.027389"
+  },
+  {
+    "location": "Gulshan-e-Jami",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Gulshan-e-Jami, Karachi, Sindh",
+    "latitude": "24.911917",
+    "longitude": "67.19947"
+  },
+  {
+    "location": "Gadap Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Gadap Road, Karachi, Sindh",
+    "latitude": "25.053956",
+    "longitude": "67.253365"
+  },
+  {
+    "location": "Gulshan-E-Faisal",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Gulshan-E-Faisal, Karachi, Sindh",
+    "latitude": "24.835748",
+    "longitude": "67.028184"
+  },
+  {
+    "location": "APP Employees Co-operative Housing Society",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "APP Employees Co-operative Housing Society, Karachi, Sindh",
+    "latitude": "24.928572",
+    "longitude": "67.157725"
+  },
+  {
+    "location": "Gulshan-e-Malir",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Gulshan-e-Malir, Karachi, Sindh",
+    "latitude": "24.880438",
+    "longitude": "67.179402"
+  },
+  {
+    "location": "Laraib Garden",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Laraib Garden, Karachi, Sindh",
+    "latitude": "24.922239",
+    "longitude": "67.081284"
+  },
+  {
+    "location": "Sher Shah Suri Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Sher Shah Suri Road, Karachi, Sindh",
+    "latitude": "24.949848",
+    "longitude": "67.051571"
+  },
+  {
+    "location": "PIDC",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "PIDC, Karachi, Sindh",
+    "latitude": "24.972715",
+    "longitude": "67.142279"
+  },
+  {
+    "location": "Diamond City",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Diamond City, Karachi, Sindh",
+    "latitude": "24.874796",
+    "longitude": "67.017519"
+  },
+  {
+    "location": "Catholic Colony",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Catholic Colony, Karachi, Sindh",
+    "latitude": "24.835906",
+    "longitude": "67.114074"
+  },
+  {
+    "location": "Nooriabad",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Nooriabad, Karachi, Sindh",
+    "latitude": "25.158484",
+    "longitude": "67.798475"
+  },
+  {
+    "location": "Old Ravians Co-Operative Housing Society",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Old Ravians Co-Operative Housing Society, Karachi, Sindh",
+    "latitude": "24.93886",
+    "longitude": "67.145283"
+  },
+  {
+    "location": "Police Society",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Police Society, Karachi, Sindh",
+    "latitude": "24.963835",
+    "longitude": "67.17929"
+  },
+  {
+    "location": "Altaf Hussain Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Altaf Hussain Road, Karachi, Sindh",
+    "latitude": "24.919284",
+    "longitude": "66.961912"
+  },
+  {
+    "location": "Al-Jadeed Residency",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Al-Jadeed Residency, Karachi, Sindh",
+    "latitude": "24.931248",
+    "longitude": "67.25654"
+  },
+  {
+    "location": "Gulshan-e-Millat",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Gulshan-e-Millat, Karachi, Sindh",
+    "latitude": "24.861197",
+    "longitude": "67.154875"
+  },
+  {
+    "location": "Bagh-e-Korangi",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Bagh-e-Korangi, Karachi, Sindh",
+    "latitude": "24.858398",
+    "longitude": "67.151549"
+  },
+  {
+    "location": "Beaumont Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Beaumont Road, Karachi, Sindh",
+    "latitude": "24.845402",
+    "longitude": "67.024439"
+  },
+  {
+    "location": "Tahir Villa",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Tahir Villa, Karachi, Sindh",
+    "latitude": "24.932322",
+    "longitude": "67.059611"
+  },
+  {
+    "location": "Hassan Goth",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Hassan Goth, Karachi, Sindh",
+    "latitude": "25.028795",
+    "longitude": "67.092118"
+  },
+  {
+    "location": "Karachi, Sindh",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Karachi, Sindh, Karachi, Sindh",
+    "latitude": "24.862336",
+    "longitude": "67.013893"
+  },
+  {
+    "location": "Hoshang Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Hoshang Road, Karachi, Sindh",
+    "latitude": "24.843565",
+    "longitude": "67.031274"
+  },
+  {
+    "location": "Goth Ibrahim Haidri",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Goth Ibrahim Haidri, Karachi, Sindh",
+    "latitude": "24.792572",
+    "longitude": "67.144605"
+  },
+  {
+    "location": "Darul Aman Society",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Darul Aman Society, Karachi, Sindh",
+    "latitude": "24.875199",
+    "longitude": "67.068398"
+  },
+  {
+    "location": "Dhabeji",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Dhabeji, Karachi, Sindh",
+    "latitude": "24.789435",
+    "longitude": "67.521236"
+  },
+  {
+    "location": "Allama Iqbal Town",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Allama Iqbal Town, Karachi, Sindh",
+    "latitude": "24.926879",
+    "longitude": "67.026472"
+  },
+  {
+    "location": "Blue Bell Residency",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Blue Bell Residency, Karachi, Sindh",
+    "latitude": "24.837117",
+    "longitude": "67.035573"
+  },
+  {
+    "location": "Gulistan-e-Malir",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Gulistan-e-Malir, Karachi, Sindh",
+    "latitude": "24.870283",
+    "longitude": "67.178589"
+  },
+  {
+    "location": "Shahra-e-Jahangir",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Shahra-e-Jahangir, Karachi, Sindh",
+    "latitude": "24.91859818",
+    "longitude": "67.07333374"
+  },
+  {
+    "location": "Erum Villas",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Erum Villas, Karachi, Sindh",
+    "latitude": "24.896713",
+    "longitude": "67.076658"
+  },
+  {
+    "location": "Humaira Town",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Humaira Town, Karachi, Sindh",
+    "latitude": "24.910078",
+    "longitude": "67.200003"
+  },
+  {
+    "location": "Gulshan-e-Ghazian",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Gulshan-e-Ghazian, Karachi, Sindh",
+    "latitude": "24.996614",
+    "longitude": "67.135509"
+  },
+  {
+    "location": "Jamaluddin Afghani Road",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Jamaluddin Afghani Road, Karachi, Sindh",
+    "latitude": "24.884039",
+    "longitude": "67.064471"
+  },
+  {
+    "location": "Damba",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Damba, Karachi, Sindh",
+    "latitude": "24.97252",
+    "longitude": "67.259372"
+  },
+  {
+    "location": "Karachi Golf City",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Karachi Golf City, Karachi, Sindh",
+    "latitude": "25.066076",
+    "longitude": "67.481782"
+  },
+  {
+    "location": "Others",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Others, Karachi, Sindh",
+    "latitude": "24.8615",
+    "longitude": "67.0099"
+  },
+  {
+    "location": "Mangopir",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Mangopir, Karachi, Sindh",
+    "latitude": "24.98174",
+    "longitude": "67.035906"
+  },
+  {
+    "location": "Shahra-e-Liaquat",
+    "city": "Karachi",
+    "province_name": "Sindh",
+    "locality": "Shahra-e-Liaquat, Karachi, Sindh",
+    "latitude": "24.856768",
+    "longitude": "67.016451"
+  }
+]
